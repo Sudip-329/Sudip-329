@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip-329&label=Profile%20views&color=0e75b6&style=flat" alt="sudip-329" /> </p>
 
-
+## About Me :
 - 🔭 I’m currently working on **ML**
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **Python Libraries**
 
 - 👯 I’m looking to collaborate on **AI and Ml releted projects.**
 
