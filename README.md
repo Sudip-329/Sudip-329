@@ -46,8 +46,7 @@
   <!-- ---------------------------------------------------  StackOverflow & LeetCode  ------------------------------------------------------------------- -->
 
 
-| Stackoverflow  [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20249587)](https://stackoverflow.com/users/20249587/abhishek-d-patil)  |  Leetcode   ![LeetCode Stats]![](https://leetcard.SudipChakrabarty/SudipChakrabarty?theme=unicorn)
-![](https://leetcard.SudipChakrabarty/SudipChakrabarty?theme=light,unicorn) |
+| Stackoverflow  [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20249587)](https://stackoverflow.com/users/20249587/abhishek-d-patil)  |  Leetcode   ![LeetCode Stats](https://leetcode.card.workers.dev/SudipChakrabarty?theme=light,unicorn)) |
 | :---: | :---: |
 
 
