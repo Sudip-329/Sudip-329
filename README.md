@@ -142,10 +142,10 @@
    <summary><b>:rocket: &nbsp;Github stats Detailed</b></summary>
    </br>
   
-<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishek-0713&theme=2077"/></td><td>
-<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-0713&theme=2077"/></td></tr></table>
-<table><tr><td width="430"><img width="500"  height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-0713&theme=2077"/></td>
-<td width="430"><img width="500" height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-0713&theme=2077"/></td></tr></table>
+<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sudip_329&theme=2077"/></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudip_329&theme=2077"/></td></tr></table>
+<table><tr><td width="430"><img width="500"  height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sudip_329&theme=2077"/></td>
+<td width="430"><img width="500" height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sudip_329&theme=2077"/></td></tr></table>
 
 [![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sudip_329&theme=react-dark)](https://github.com/Sudip_329/github-readme-activity-graph)
 
