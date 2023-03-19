@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C,C++,Python.**
 
-- 📫 How to reach me **sudipchakrabarty6@gmail.com**
+- 📫 Want to reach me : **sudipchakrabarty6@gmail.com**
 
 
 
