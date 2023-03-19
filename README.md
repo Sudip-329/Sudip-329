@@ -58,7 +58,7 @@
 
 
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudip-329&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=Sudip-329&theme=dark&border_radius=4)](https://git.io/streak-stats) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudip-329&theme=cobalt&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=Sudip-329&theme=synthwave&border_radius=4)](https://git.io/streak-stats) |
 | :---: | :---: |
 
 
