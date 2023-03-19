@@ -147,11 +147,11 @@
 <table><tr><td width="430"><img width="500"  height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-0713&theme=2077"/></td>
 <td width="430"><img width="500" height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-0713&theme=2077"/></td></tr></table>
 
-<!-- [![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek-0713&theme=react-dark)](https://github.com/abhishek-0713/github-readme-activity-graph)   -->
+[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sudip_329&theme=react-dark)](https://github.com/Sudip_329/github-readme-activity-graph)
 
 </br>
 </details>
 
-<img align="center" src="https://raw.githubusercontent.com/Sudip_329/Sudip_329/main/profile-3d-contrib/profile-night-green.svg" alt="coder_abhi0713" height="550" width="100%" /> 
+<img align="center" src="https://raw.githubusercontent.com/Sudip_329/Sudip_329/main/profile-3d-contrib/profile-night-green.svg" alt="Sudip_329" height="550" width="100%" /> 
 
 <img width=100% title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Consistency🔁Success&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
