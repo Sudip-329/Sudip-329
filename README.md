@@ -129,7 +129,8 @@
 ## Trophy & Stats :
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sudip_Chakrabarty)
 
-| [![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-0713)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-0713&layout=compact)](https://github.com/abhishek-0713/github-readme-stats) |
+## Trophy & Stats :
+| [![trophy](https://github-profile-trophy.vercel.app/?username=Sudip_329)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudip_329&layout=compact)](https://github.com/Sudip_329/github-readme-stats) |
 | :---: | :---: |
 
 
