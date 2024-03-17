@@ -48,23 +48,17 @@
 
 
 <!-- ---------------------------------------------------  StackOverflow & LeetCode  ------------------------------------------------------------------- -->
-[![Sudips stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sudip329)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
 | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sudip_Chakrabarty)  |![LeetCode Stats](https://leetcode.card.workers.dev/SudipChakrabarty?theme=light,unicorn) | 
 | :---: | :---: |
 
 
-| ![Sudips stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sudip329)] | <img margin="40px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudip-329&show_icons=true&locale=en&layout=compact" alt="sudip-329" /></p> |
+| ![Sudips stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sudip329) | <img margin="40px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudip-329&show_icons=true&locale=en&layout=compact" alt="sudip-329" /> |
 | :---: | :---: |
-
-
-
-
 
 
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudip-329&theme=cobalt&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=Sudip-329&theme=synthwave&border_radius=4)](https://git.io/streak-stats) |
 | :---: | :---: |
-
 
 
 <!--details
