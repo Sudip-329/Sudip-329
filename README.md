@@ -48,7 +48,7 @@
 
 
 <!-- ---------------------------------------------------  StackOverflow & LeetCode  ------------------------------------------------------------------- -->
-
+https://codechef-cards-api.onrender.com/sudip_3329
 
 | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sudip_Chakrabarty)  |![LeetCode Stats](https://leetcode.card.workers.dev/SudipChakrabarty?theme=light,unicorn) |<img margin="40px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudip-329&show_icons=true&locale=en&layout=compact" alt="sudip-329" /></p> |
 | :---: | :---: | :---: |
