@@ -50,7 +50,7 @@
 <!-- ---------------------------------------------------  StackOverflow & LeetCode  ------------------------------------------------------------------- -->
 [![Sudips stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sudip329)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
-| ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sudip_Chakrabarty)  |![LeetCode Stats](https://leetcode.card.workers.dev/SudipChakrabarty?theme=light,unicorn) |<img margin="40px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudip-329&show_icons=true&locale=en&layout=compact" alt="sudip-329" /></p> |
+| ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sudip_Chakrabarty)  |![LeetCode Stats](https://leetcode.card.workers.dev/SudipChakrabarty?theme=light,unicorn) | ![Sudips stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sudip329)] | <img margin="40px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudip-329&show_icons=true&locale=en&layout=compact" alt="sudip-329" /></p> |
 | :---: | :---: | :---: |
 
 
