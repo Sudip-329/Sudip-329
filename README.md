@@ -77,4 +77,4 @@
 
 <img align="center" src="https://raw.githubusercontent.com/Sudip_329/Sudip_329/main/profile-3d-contrib/profile-night-green.svg" alt="Sudip_329" height="550" width="100%" /> -->
 
-<img width=100% title="Coder Abhi." alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Consistency🔁Success&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+<img width=100% title="Coder Abhi." alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Consistency maire🔁chudi Success&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
