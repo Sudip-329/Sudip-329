@@ -94,6 +94,12 @@
 </div>
 
 
+<h3 align="center">📈 Contribution Activity</h3>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sudip-329&theme=github-compact&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" />
+</p>
+
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-329&theme=blueberry&hide_border=true" width="41%" alt="streak stats"/>
