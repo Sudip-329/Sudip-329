@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip-329&label=Profile%20views&color=0e75b6&style=flat" alt="sudip-329" /> </p>
 
-<img align="right" height="400" width="450" src="photo.jpeg" alt="Sudip Chakrabarty Profile Photo">
+<img align="right" height="390" width="430" src="photo.jpeg" alt="Sudip Chakrabarty Profile Photo">
 
 ## About Me :
 
