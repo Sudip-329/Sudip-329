@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip-329&label=Profile%20views&color=0e75b6&style=flat" alt="sudip-329" /> </p>
 
-<img align="right" width="250" src="photo.png" alt="Sudip Chakrabarty Cartoon Photo">
+<img align="right" width="450" src="photo.png" alt="Sudip Chakrabarty Cartoon Photo">
 ## About Me :
 - 🔭 I’m currently working on **ML**
 
