@@ -45,8 +45,6 @@
 <br>
 
 
-<!--Skills-->
-
 <h2 align="center"><img align="center" height="50" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50"> Languages and Skills:</h2>
 
 <h3 align="left">👨‍💻 Programming Languages:</h3>
