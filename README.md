@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sudip Chakrabarty</h1>
+<div align="center">
+ <h1> <img src="https://gprm.itsvg.in/logo.png" width="80px"><br/>i 👋, I'm Sudip Chakrabarty</h1>
+</div>
+ 
 <h3 align="center">A passionate Computer Science Engineer and Competitive Programmer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip-329&label=Profile%20views&color=0e75b6&style=flat" alt="sudip-329" /> </p>
