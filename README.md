@@ -53,7 +53,12 @@
 | :---: | :---: |
 
 
-| ![Sudips stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sudip329) | <img margin="40px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudip-329&show_icons=true&locale=en&layout=compact" alt="sudip-329" /> |
+
+<picture>
+  <source srcset="https://github-readme-stats-fast.vercel.app/api?username=sudip-329&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-stats-fast.vercel.app/api?username=sudip-329&show_icons=true&theme=flag-india">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sudip-329&show_icons=true&theme=flag-india" alt="Github Metrics">
+</picture>
 | :---: | :---: |
 
 
@@ -76,5 +81,22 @@
 </details>
 
 <img align="center" src="https://raw.githubusercontent.com/Sudip_329/Sudip_329/main/profile-3d-contrib/profile-night-green.svg" alt="Sudip_329" height="550" width="100%" /> -->
+
+## Just a snake  🐍
+<p align='center'>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sudip-329/sudip-329/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sudip-329/sudip-329/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/sudip-329/sudip-329/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <img width=100% title="Coder Abhi." alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Consistency maire🔁chudi Success&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
