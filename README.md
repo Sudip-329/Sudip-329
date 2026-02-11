@@ -100,7 +100,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-329&theme=blueberry&hide_border=true" width="41%" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-329&theme=blueberry&hide_border=true" width="43%" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <br/>
