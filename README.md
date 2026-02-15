@@ -6,7 +6,6 @@
 <p align="center"> <i>Focusing on Trustworthy AI, Medical Imaging, and Agentic Architectures</i> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip-329&label=Profile%20views&color=0e75b6&style=flat" alt="sudip-329" /> </p>
-
 <img align="right" height="380" width="420" src="photo.jpeg" alt="Sudip Chakrabarty Profile Photo">
 
 ## About Me :
