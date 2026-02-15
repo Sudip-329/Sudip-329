@@ -95,7 +95,7 @@
 <ul align="left">
   <li>
     <a href="https://learnopencv.com/yolo26-nms-free-inference/" target="_blank">
-      <b>Breaking the Bottleneck: Achieving Native NMS-Free Inference with YOLOv26</b>
+      <b>Breaking the Bottleneck: Achieving Native NMS-Free Inference with YOLO26</b>
     </a>
     <br />
     <img src="https://img.shields.io/badge/Published_on-LearnOpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="LearnOpenCV"/>
