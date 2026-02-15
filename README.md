@@ -3,7 +3,6 @@
 </div>
 
 
-
 <h3 align="center">AI Researcher | Computer Vision Engineer | Competitive Programmer</h3>
 <p align="center"> <i>Focusing on Trustworthy AI, Medical Imaging, and Agentic Architectures</i> </p>
 
