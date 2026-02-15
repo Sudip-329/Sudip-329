@@ -91,6 +91,18 @@
 </div>
 
 
+<h3 align="left">✍️ Technical Writing & Blogs:</h3>
+<ul align="left">
+  <li>
+    <a href="https://learnopencv.com/yolo26-nms-free-inference/" target="_blank">
+      <b>Breaking the Bottleneck: Achieving Native NMS-Free Inference with YOLO26</b>
+    </a>
+    <br />
+    <img src="https://img.shields.io/badge/Published_on-LearnOpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="LearnOpenCV"/>
+  </li>
+  </ul>
+
+
 <h3 align="center">📈 Contribution Activity</h3>
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sudip-329&theme=github-compact&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" />
