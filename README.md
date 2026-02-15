@@ -91,7 +91,7 @@
 </div>
 
 
-<h3 align="left">✍️ Technical Writing & Blogs:</h3>
+<h3 align="left">✍️ Technical Writing & Blogs</h3>
 <ul align="left">
   <li>
     <a href="https://learnopencv.com/yolo26-nms-free-inference/" target="_blank">
