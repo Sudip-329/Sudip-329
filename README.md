@@ -1,4 +1,25 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4A71D9%2C100:00c6ff&height=200&section=header&text=Sudipp%20Chakrabarty&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Research%20Assistant%20@AmygdalaAI-IndiaLab,
+%20Technical%20Staff%20@OpenCV%20University%20'&'LearnOpenCV&descAlignY=55&descAlign=50">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E2E2E2%2C100:C9D6FF&height=200&section=header&text=Onuralp%20Sezer&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Senior%20Machine%20Learning%20Engineer%20@Ultralytics&descAlignY=55&descAlign=50">
+    <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A71D9,100:00c6ff&height=200&section=header&text=Onuralp%20Sezer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Machine%20Learning%20Engineer%20@Ultralytics&descAlignY=55&descAlign=50">
+  </picture>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Sudip-329">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=%3E_Sudip+Chakrabarty+Dip...;%3E_Loading+YOLO+weights...;%3E_Hello+World!+I'm+Onuralp+%F0%9F%91%8B">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A71D9&center=true&vCenter=true&width=600&lines=%3E_Initializing+neural+networks...;%3E_Loading+YOLO+weights...;%3E_Hello+World!+I'm+Onuralp+%F0%9F%91%8B">
+      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=%3E_Initializing+neural+networks...;%3E_Loading+YOLO+weights...;%3E_Hello+World!+I'm+Onuralp+%F0%9F%91%8B">
+    </picture>
+  </a>
+</div>
+
+
+
+<div align="center">
  <h1> <img src="https://gprm.itsvg.in/logo.png" width="80px"><br/>Hi 👋, I'm Sudip Chakrabarty</h1>
 </div>
 
