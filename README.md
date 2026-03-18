@@ -116,17 +116,7 @@ I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer curren
 
 
 <h3 align="left">✍️ Technical Writing & Blogs</h3>
-<ul align="left">
-  <li>
-    <a href="https://learnopencv.com/yolo26-nms-free-inference/" target="_blank">
-      <b>Breaking the Bottleneck: Achieving Native NMS-Free Inference with YOLO26</b>
-    </a>
-    <br />
-    <img src="https://img.shields.io/badge/Published_on-LearnOpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="LearnOpenCV"/>
-  </li>
-  </ul>
-
-  <ul align="left">
+ <ul align="left">
   <li>
     <a href="https://learnopencv.com/multi-object-tracking-with-roboflow-trackers-and-opencv/" target="_blank">
       <b>Mastering Multi-Object Tracking with Roboflow Trackers & OpenCV</b>
@@ -135,6 +125,15 @@ I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer curren
     <img src="https://img.shields.io/badge/Published_on-LearnOpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="LearnOpenCV"/>
   </li>
   </ul>
+<ul align="left">
+ <li>
+    <a href="https://learnopencv.com/yolo26-nms-free-inference/" target="_blank">
+      <b>Breaking the Bottleneck: Achieving Native NMS-Free Inference with YOLO26</b>
+    </a>
+    <br />
+    <img src="https://img.shields.io/badge/Published_on-LearnOpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="LearnOpenCV"/>
+  </li>
+ </ul>
 
 
 <h3 align="center">📈 Contribution Activity</h3>
