@@ -26,7 +26,7 @@
 
 👋 **Greetings Everyone!**
 
-I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer currently contributing as **Technical Staff <img src="https://avatars.githubusercontent.com/u/5009934?v=4" width="20" height="20" alt="OpenCV" style="vertical-align: middle;"/> OpenCV University** 🎓 and writing technical blogs for the **LearnOpenCV** platform ✍️. My passion lies at the intersection of **Computer Vision 👁️**, **Medical Imaging 🏥**, and cutting-edge **AI Research 🔬**. I am deeply committed to developing **Trustworthy and Explainable AI (XAI) 🧠**, with a strong focus on making advanced healthcare solutions reliable and accessible.
+I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer currently contributing as **Technical Staff <img src="https://avatars.githubusercontent.com/u/5009934?v=4" width="20" height="20" alt="OpenCV" style="vertical-align: middle;"/> OpenCV University** 🎓 and writing technical blogs for the **LearnOpenCV** platform ✍️. My passion lies at the intersection of **Computer Vision 👁️**, **Medical Imaging 🏥**, and cutting-edge **AI Research 🔬**. I am deeply committed to developing **Trustworthy and Explainable AI (XAI) 🧠**, with a strong focus on making advanced healthcare solutions reliable and accessible. 
 
 </p>
 
