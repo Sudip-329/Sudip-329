@@ -115,25 +115,46 @@ I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer curren
 </div>
 
 
-<h3 align="left">✍️ Technical Writing & Blogs</h3>
- <ul align="left">
+
+<br />
+<h3 align="center">
+  ✍️ Technical Writing & Blogs
+  <a href="https://learnopencv.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Published_on-LearnOpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="LearnOpenCV" valign="middle" />
+  </a>
+</h3>
+<ul align="left">
+  <li>
+    <a href="https://learnopencv.com/yolo26-instance-segmentation-pixel-perfect-ai-at-real-time-speed/" target="_blank">
+      <b>YOLO26 Instance Segmentation: Pixel-Perfect AI at Real-Time Speed</b>
+    </a>
+    &nbsp;
+    <a href="https://github.com/spmallick/learnopencv/tree/master/YOLO26-instance-segmentation" target="_blank">
+      <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="GitHub Code" valign="middle" />
+    </a>
+  </li>
   <li>
     <a href="https://learnopencv.com/multi-object-tracking-with-roboflow-trackers-and-opencv/" target="_blank">
       <b>Mastering Multi-Object Tracking with Roboflow Trackers & OpenCV</b>
     </a>
-    <br />
-    <img src="https://img.shields.io/badge/Published_on-LearnOpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="LearnOpenCV"/>
+    &nbsp;
+    <a href="https://github.com/spmallick/learnopencv/tree/master/Roboflow_Trackers_Demo" target="_blank">
+      <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="GitHub Code" valign="middle" />
+    </a>
   </li>
-  </ul>
-<ul align="left">
- <li>
+  <li>
     <a href="https://learnopencv.com/yolo26-nms-free-inference/" target="_blank">
       <b>Breaking the Bottleneck: Achieving Native NMS-Free Inference with YOLO26</b>
     </a>
-    <br />
-    <img src="https://img.shields.io/badge/Published_on-LearnOpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="LearnOpenCV"/>
+    &nbsp;
+    <a href="https://github.com/spmallick/learnopencv/tree/master/YOLO26-NMS-Free-Demo" target="_blank">
+      <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="GitHub Code" valign="middle" />
+    </a>
   </li>
- </ul>
+</ul>
+<br />
+
+
 
 
 <h3 align="center">📈 Contribution Activity</h3>
@@ -153,7 +174,7 @@ I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer curren
 
 
 
-
+<br />
 <h2 align="center">🐍 Training on Contribution Data...</h2>
 <p align='center'>
 <picture>
