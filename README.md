@@ -11,11 +11,10 @@
 </div>
 
 
-
 <div align="center">
   <a href="https://github.com/Sudip-329">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=%3E_Research+Assistant+@+AmygdalaAI-India+Lab...;%3E_Technical+Staff+@+OpenCV+University...;%3E_Article+Writer+@+LearnOpenCV...;%3E_Hello+World!+I'm+Sudip+Chakrabarty+%F0%9F%91%8B">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=%3E_Research+Assistant+@+AmygdalaAI-India+Lab...;%3E_Hello+World!+I'm+Sudip+Chakrabarty+%F0%9F%91%8B">
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A71D9&center=true&vCenter=true&width=600&lines=%3E_Initializing+neural+networks...;%3E_Loading+YOLO+weights...;%3E_Hello+World!+I'm+Onuralp+%F0%9F%91%8B">
       <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=%3E_Initializing+neural+networks...;%3E_Loading+YOLO+weights...;%3E_Hello+World!+I'm+Onuralp+%F0%9F%91%8B">
     </picture>
