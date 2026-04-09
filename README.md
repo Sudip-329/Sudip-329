@@ -25,7 +25,7 @@
 
 👋 **Greetings Everyone!**
 
-I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer currently contributing as **Technical Staff <img src="https://avatars.githubusercontent.com/u/5009934?v=4" width="20" height="20" alt="OpenCV" style="vertical-align: middle;"/> OpenCV University** 🎓 and writing technical blogs for the **LearnOpenCV** platform ✍️. My passion lies at the intersection of **Computer Vision 👁️**, **Medical Imaging 🏥**, and cutting-edge **AI Research 🔬**. I am deeply committed to developing **Trustworthy and Explainable AI (XAI) 🧠**, with a strong focus on making advanced healthcare solutions reliable and accessible. 
+I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer🎓. My passion lies at the intersection of **Computer Vision 👁️**, **Medical Imaging 🏥**, and cutting-edge **AI Research 🔬**. I am deeply committed to developing **Trustworthy and Explainable AI (XAI) 🧠**, with a strong focus on making advanced healthcare solutions reliable and accessible. 
 
 </p>
 
@@ -34,13 +34,11 @@ I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer curren
 
 ## About Me :
 
-- 🔭 I’m currently working on **Speech Emotion Recognition & Oral Cancer Detection**
+- 🔭 I’m currently working on **Oral Cancer Analysis and Detection**
 
-- 🌱 I’m currently exploring **Agentic AI, Explainable AI (XAI), and Transformers**
+- 🌱 Exploring **Agentic AI, Explainable AI (XAI), and Transformers**
 
-- 👯 I’m actively contributing to **OpenCV & Computer Vision Open Source Projects**
-
-- 🤝 I’m open to collaborating on **Trustworthy AI for Healthcare & Accessibility**
+- 🤝 I’m open to collaboration on **Trustworthy AI for Healthcare & Accessibility**
 
 - 💬 Ask me about **Computer Vision, Deep Learning, C++, Python**
 
