@@ -15,11 +15,17 @@
   <a href="https://github.com/Sudip-329">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=%3E_Research+Assistant+@+AmygdalaAI-India+Lab...;%3E_Hello+World!+I'm+Sudip+Chakrabarty+%F0%9F%91%8B">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A71D9&center=true&vCenter=true&width=600&lines=%3E_Initializing+neural+networks...;%3E_Loading+YOLO+weights...;%3E_Hello+World!+I'm+Onuralp+%F0%9F%91%8B">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A71D9&center=true&vCenter=true&width=600&lines=%3E_Initializing+neural+networks...;%3E_Loading+YOLO+weights...;%3E_Hello+World!+I'm+Sudip+Chakrabarty+%F0%9F%91%8B">
       <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=%3E_Initializing+neural+networks...;%3E_Loading+YOLO+weights...;%3E_Hello+World!+I'm+Onuralp+%F0%9F%91%8B">
     </picture>
   </a>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/KIIT_University-004F9F?style=for-the-badge&logo=googlescholar&logoColor=white" alt="KIIT University" />
+  <img src="https://img.shields.io/badge/AmygdalaAI--India_Lab-FF4081?style=for-the-badge&logo=pytorch&logoColor=white" alt="AmygdalaAI-India Lab" />
+  <img src="https://img.shields.io/badge/Research_Assistant-00C853?style=for-the-badge&logo=semanticscholar&logoColor=white" alt="Research Assistant" />
+</p>
 
 <p align="left">
 
@@ -42,7 +48,22 @@ I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer🎓. M
 
 - 💬 Ask me about **Computer Vision, Deep Learning, C++, Python**
 
+- ✍️ I write technical deep-dives on Computer Vision for **[LearnOpenCV](https://learnopencv.com/)**
+
+- 📚 Currently reading papers on **Vision Transformers** and **LLM-driven agents**
+
 - 📫 Reach me at: **[sudipchakrabarty6@gmail.com](mailto:sudipchakrabarty6@gmail.com)**
+
+<h3 align="left">🔬 Research Interests:</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat-square" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/-Medical_Imaging-E91E63?style=flat-square" alt="Medical Imaging" />
+<img src="https://img.shields.io/badge/-Explainable_AI-FFA000?style=flat-square" alt="Explainable AI" />
+<img src="https://img.shields.io/badge/-Agentic_AI-00BFA5?style=flat-square" alt="Agentic AI" />
+<img src="https://img.shields.io/badge/-Vision_Transformers-7B1FA2?style=flat-square" alt="Vision Transformers" />
+<img src="https://img.shields.io/badge/-Trustworthy_AI-1976D2?style=flat-square" alt="Trustworthy AI" />
+<img src="https://img.shields.io/badge/-Oral_Cancer_Detection-D32F2F?style=flat-square" alt="Oral Cancer Detection" />
+</p>
 
 <br clear="all" />
 
@@ -94,20 +115,17 @@ I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer🎓. M
 
 <h3 align="center">🏆 Achievements:</h3>
 <div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=sudip-329&theme=blueberry&no-frame=true&no-bg=true&margin-w=4" alt="Sudip's Trophies" />
+  <a href="https://github.com/sudip-329"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudip-329&theme=nord_dark" alt="Profile details" /></a>
+  <a href="https://github.com/sudip-329"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudip-329&theme=nord_dark" alt="Top repos per language" /></a>
+  <a href="https://github.com/sudip-329"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudip-329&theme=nord_dark" alt="Most committed language" /></a>
 </div>
 
 
-<div align="center">
-  <h3 align="center">🏆 Competitive Programming & Problem Solving:</h3>
-  
-  <a href="https://codeforces.com/profile/Sudip_Chakrabarty" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sudip_Chakrabarty" height="180" alt="Codeforces" />
-  </a>
-  &nbsp;&nbsp; <a href="https://leetcode.com/SudipChakrabarty/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/SudipChakrabarty?theme=light&font=cn" height="180" alt="LeetCode" />
-  </a>
-</div>
+<h3 align="center">🏆 Competitive Programming & Problem Solving:</h3>
+<table align="center"><tr>
+<td><a href="https://codeforces.com/profile/Sudip_Chakrabarty" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sudip_Chakrabarty" height="180" alt="Codeforces" /></a></td>
+<td><a href="https://leetcode.com/SudipChakrabarty/" target="_blank"><img src="https://leetcard.jacoblin.cool/SudipChakrabarty?theme=light&font=cn" height="180" alt="LeetCode" /></a></td>
+</tr></table>
 
 
 
@@ -160,11 +178,10 @@ I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer🎓. M
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-329&theme=blueberry&hide_border=true" width="45%" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=sudip-329&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sudip-329&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img src="https://streak-stats.demolab.com/?user=sudip-329&theme=blueberry&hide_border=true" width="45%" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=sudip-329&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/><br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-329&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
