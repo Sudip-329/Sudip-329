@@ -16,7 +16,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=%3E_Research+Assistant+@+AmygdalaAI-India+Lab...;%3E_Hello+World!+I'm+Sudip+Chakrabarty+%F0%9F%91%8B">
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A71D9&center=true&vCenter=true&width=600&lines=%3E_Initializing+neural+networks...;%3E_Loading+YOLO+weights...;%3E_Hello+World!+I'm+Sudip+Chakrabarty+%F0%9F%91%8B">
-      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=%3E_Initializing+neural+networks...;%3E_Loading+YOLO+weights...;%3E_Hello+World!+I'm+Onuralp+%F0%9F%91%8B">
+      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=%3E_Initializing+neural+networks...;%3E_Loading+YOLO+weights...;%3E_Hello+World!+I'm+Sudip+Chakrabarty+%F0%9F%91%8B">
     </picture>
   </a>
 </div>
@@ -38,7 +38,7 @@ I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer🎓. M
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip-329&label=Profile%20views&color=0e75b6&style=flat" alt="sudip-329" /> </p>
 <img align="right" height="380" width="420" src="photo.jpeg" alt="Sudip Chakrabarty Profile Photo">
 
-## About Me :
+### 📌 **About Me**
 
 - 🔭 I’m currently working on **Oral Cancer Analysis and Detection**
 
@@ -178,10 +178,9 @@ I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer🎓. M
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sudip-329&theme=blueberry&hide_border=true" width="45%" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=sudip-329&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img src="https://streak-stats.demolab.com/?user=sudip-329&theme=blueberry&hide_border=true" height="195" alt="streak stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudip-329&theme=nord_dark" height="195" alt="GitHub stats" />
   <br/><br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-329&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
@@ -204,7 +203,5 @@ I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer🎓. M
   />
 </picture>
 </p>
-
-<img width=100% title="Coder Abhi." alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Consistency maire🔁chudi Success&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&secondaryColor=0077b6&height=150&section=footer&text=Consistency%20is%20the%20Key%20to%20Success%20🔁&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
