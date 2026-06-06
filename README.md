@@ -31,8 +31,7 @@
 
 👋 **Greetings Everyone!**
 
-I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer🎓. My passion lies at the intersection of **Computer Vision 👁️**, **Medical Imaging 🏥**, and cutting-edge **AI Research 🔬**. I am deeply committed to developing **Trustworthy and Explainable AI (XAI) 🧠**, with a strong focus on making advanced healthcare solutions reliable and accessible. 
-
+I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer🎓. My passion lies at the intersection of **Computer Vision 👁️** and cutting-edge **AI Research 🔬**.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip-329&label=Profile%20views&color=0e75b6&style=flat" alt="sudip-329" /> </p>
@@ -40,30 +39,16 @@ I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer🎓. M
 
 ### 📌 **About Me**
 
-- 🔭 I’m currently working on **Oral Cancer Analysis and Detection**
+- 🔭 I’m currently working on **Wild Life Monitoring**
 
-- 🌱 Exploring **Agentic AI, Explainable AI (XAI), and Transformers**
+- 🌱 Exploring **Live Scene Understanding**
 
-- 🤝 I’m open to collaboration on **Trustworthy AI for Healthcare & Accessibility**
+- 🤝 I’m open to collaboration
 
 - 💬 Ask me about **Computer Vision, Deep Learning, C++, Python**
 
-- ✍️ I write technical deep-dives on Computer Vision for **[LearnOpenCV](https://learnopencv.com/)**
-
-- 📚 Currently reading papers on **Vision Transformers** and **LLM-driven agents**
-
 - 📫 Reach me at: **[sudipchakrabarty6@gmail.com](mailto:sudipchakrabarty6@gmail.com)**
 
-<h3 align="left">🔬 Research Interests:</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat-square" alt="Computer Vision" />
-<img src="https://img.shields.io/badge/-Medical_Imaging-E91E63?style=flat-square" alt="Medical Imaging" />
-<img src="https://img.shields.io/badge/-Explainable_AI-FFA000?style=flat-square" alt="Explainable AI" />
-<img src="https://img.shields.io/badge/-Agentic_AI-00BFA5?style=flat-square" alt="Agentic AI" />
-<img src="https://img.shields.io/badge/-Vision_Transformers-7B1FA2?style=flat-square" alt="Vision Transformers" />
-<img src="https://img.shields.io/badge/-Trustworthy_AI-1976D2?style=flat-square" alt="Trustworthy AI" />
-<img src="https://img.shields.io/badge/-Oral_Cancer_Detection-D32F2F?style=flat-square" alt="Oral Cancer Detection" />
-</p>
 
 <br clear="all" />
 
