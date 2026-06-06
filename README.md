@@ -45,7 +45,7 @@ I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer🎓. M
 
 - 🤝 I’m open to collaboration
 
-- 💬 Ask me about **Computer Vision, Deep Learning, C++, Python**
+- 💬 Ask me about **Computer Vision, Deep Learning, C++, C, Python**
 
 - 📫 Reach me at: **[sudipchakrabarty6@gmail.com](mailto:sudipchakrabarty6@gmail.com)**
 
