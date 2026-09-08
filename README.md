@@ -56,7 +56,6 @@ I'm **Sudip Chakrabarty**, an AI Researcher and Computer Science Engineer🎓. M
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sudip-chakrabarty-6502b5243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/sudip.chakrabarty2?mibextid=zbwkwl" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://scholar.google.com/citations?hl=en&user=hlYTrMYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 <a href="https://www.researchgate.net/profile/Sudip-Chakrabarty-3" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
 <a href="https://codeforces.com/profile/sudip_chakrabarty" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
